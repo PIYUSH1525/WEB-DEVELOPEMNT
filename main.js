@@ -14,3 +14,6 @@ const arr = ["amana" , "piyush" , "amit","Alice","Bob","Charlie","David","Emma",
 // const filterarr = arr.filter(function(val){
 //     return val.startsWith('C')
 // })
+
+//Spread 
+const apple = [...arr]
