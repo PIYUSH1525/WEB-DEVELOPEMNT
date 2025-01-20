@@ -16,4 +16,10 @@ const arr = ["amana" , "piyush" , "amit","Alice","Bob","Charlie","David","Emma",
 // })
 
 //Spread 
-const apple = [...arr]
+// const apple = [...arr]
+
+// //Rest
+// function restfunction (a,b,x,...ch){
+//     console.log(a,b,x,ch)
+// }
+// restfunction(1,2,3,4,'amanm')
